@@ -1,4 +1,4 @@
-# Yandex_progects
+# Yandex_projects
 
 
 Progect №1 - Яндекс.Музыка
